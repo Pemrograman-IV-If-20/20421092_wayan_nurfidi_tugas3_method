@@ -1,0 +1,15 @@
+{
+  "name": "tugas3_method",
+  "version": "1.0.0",
+  "description": "tugas3_belajar nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wayan nurfidi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
